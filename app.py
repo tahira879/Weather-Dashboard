@@ -152,3 +152,4 @@ if curr:
 
 else:
     st.error("⚠️ City not found or API Key missing. Please check your credentials.")
+
